@@ -1,0 +1,14 @@
+
+variable "aws_ami"{
+    default = "ami-4bc7cd2f"
+}
+variable "instance_type"{
+    default = "t2.micro"
+}
+/*
+variable "key_name"{
+    default = "TerraformTest"
+}*/
+/*
+variable "Instance_count" {
+}*/
